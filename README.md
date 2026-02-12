@@ -1,19 +1,19 @@
 ![Nahwan](img/github-header-banner.png)
   
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin-right:40px;">
-    📫 How to reach me<br>
-    <a href="mailto:nahwanalhirzi8@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-left:40px;">
-    📄 Know about my experiences<br>
-    <a href="https://www.linkedin.com/in/nahwanalhirzi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </span>
+  📫 How to reach me<br>
+  <a href="mailto:nahwanalhirzi8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  📄 Know about my experiences<br>
+  <a href="https://www.linkedin.com/in/nahwanalhirzi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 Let's connect and share knowledge!
 
@@ -32,5 +32,3 @@ Let's connect and share knowledge!
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
-
-<p align="right">Enjoy Your Life</p>
