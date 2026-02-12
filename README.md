@@ -1,23 +1,23 @@
 ![Nahwan](img/github-header-banner.png)
   
 <p align="center">
-📫 How to reach me <br>
-<a href="mailto:nahwanalhirzi8@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
-<p align="center">
-📄 Know about my experiences <br>
-<a href="https://www.linkedin.com/in/nahwanalhirzi">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <span style="display:inline-block; text-align:center; margin-right:40px;">
+    📫 How to reach me<br>
+    <a href="mailto:nahwanalhirzi8@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </span>
+  <span style="display:inline-block; text-align:center; margin-left:40px;">
+    📄 Know about my experiences<br>
+    <a href="https://www.linkedin.com/in/nahwanalhirzi">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
 </p>
 
 Let's connect and share knowledge!
-##### Enjoy Your Life
 
-##### Skills
+### Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -33,3 +33,4 @@ Let's connect and share knowledge!
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
 
+<p align="right">Enjoy Your Life</p>
